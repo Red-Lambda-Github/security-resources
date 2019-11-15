@@ -1,5 +1,7 @@
 This document helps you think through possible security issues in your software, as well as providing resources to address some common problems.
 
+![alt text](https://www.eweek.com/imagesvr_ez/b2bezp/2019/02/Red.Lambda.jpg "Red Lambda Logo")
+
 # Part 1 - Understand and Communicate a Threat Model
 
 Think of a threat model - a situation with a user (or type of user) and a
